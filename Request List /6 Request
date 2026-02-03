@@ -1,0 +1,7 @@
+1. As a product owner, I want to generate a report of individual product sales (aggregated on a monthly basis at the product level) for Amazon India customers for FY=2021 so that I can track individual product sales.
+  
+2. As a product owner, I need an aggregate monthly gross sales report for Croma India customer so that I can track how much sales this particular customer is generating for AtliQ and manage our relationships accordingly.
+
+3. Create a stored procedure for monthly gross sales reports so that I don't have to manually modify the query every time so that I generate this report without involving the data analytics team.
+
+4. A stored procedure that can determine the market badge based on the following logic -> If total sold quantity > 5 million that market is considered Gold else it is Silver.

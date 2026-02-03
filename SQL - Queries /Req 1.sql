@@ -1,8 +1,3 @@
-### 1️⃣ Product-Level Sales Performance
-
-**Objective:** Monthly product sales for Amazon India (FY 2021).
-
-```sql
 SELECT 
     f.date,
     p.product,
